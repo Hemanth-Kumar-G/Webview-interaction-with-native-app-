@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Web View</string>
+
+    <string name="message_no_network_connected_str">No network connected!</string>
+    <string name="message_something_went_wrong_str">Something went wrong!</string>
+    <string name="label_no_internet">No internet connection</string>
+</resources>
