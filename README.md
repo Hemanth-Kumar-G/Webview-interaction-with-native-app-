@@ -2,9 +2,7 @@
 
  A complete example of android webview, in this example you can get the idea how the transections between web pages and the native android component make place. like if someone need a control from web page and vise versa then how can we create a  bridge between two different plat forms.
 
-
-<img width="1414" alt="App architectureal understanding" src="https://user-images.githubusercontent.com/20921274/126715038-1f39b1e0-ae6a-4d1a-8e17-c2f261cacde2.png">
-
+<img width="1414" alt="126715038-1f39b1e0-ae6a-4d1a-8e17-c2f261cacde2" src="https://user-images.githubusercontent.com/70285394/131431690-875cc29e-16bb-4631-a4cb-ab7ab8c33334.png">
 
 # Binding JavaScript to Android code
 
